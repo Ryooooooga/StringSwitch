@@ -146,6 +146,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Test\Bell\Util\Test_StringSwitch.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Source\Bell\Util\StringSwitch.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
