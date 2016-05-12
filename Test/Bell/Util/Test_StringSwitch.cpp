@@ -8,7 +8,7 @@
 //=====================================================================
 
 #include <gtest/gtest.h>
-#include "../../../Source/Bell/Util/StringSwitch.hpp"
+#include "../../../Bell/StringSwitch.hpp"
 
 TEST(Bell_StringSwitch, StringSwitch)
 {

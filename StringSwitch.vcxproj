@@ -150,7 +150,7 @@
     <ClCompile Include="Test\Bell\Util\Test_StringSwitch.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Source\Bell\Util\StringSwitch.hpp" />
+    <ClInclude Include="Bell\StringSwitch.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
